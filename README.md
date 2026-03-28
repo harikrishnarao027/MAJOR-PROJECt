@@ -1,4 +1,5 @@
 Amazon Demo UI Clone
+Demo link : https://amazondemo.ccbp.tech/
 
 A simple front-end Amazon-style shopping UI built using HTML and CSS. This project showcases a product browsing interface with multiple sections, product pages, and basic navigation.
 
